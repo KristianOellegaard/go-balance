@@ -8,6 +8,7 @@ Currently just a test
 
 Install
 -------
-
+```bash
 GOPATH=$PWD go get
 go build && ./go-balance
+```
